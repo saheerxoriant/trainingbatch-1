@@ -1,1 +1,2 @@
 Training Batch-1 project is added for git collaboation and feature implementation(individual)
+Added by Akshay Farro
